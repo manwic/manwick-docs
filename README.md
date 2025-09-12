@@ -100,4 +100,4 @@ This documentation is licensed under [MIT License](LICENSE).
 
 ---
 
-**Manwick Team** | [Website](https://manwick.game) | [Community Discord](https://discord.gg/manwick)
+**Manwick Team** | [Website](https://manwick.game) | [Community Discord](https://discord.gg/RP6efE4u)

@@ -10,7 +10,7 @@ This repository contains all documentation for the Manwick project, including ga
 
 ### Game Design
 - [Master Task List](GameDesign/MASTER_TASK_LIST.md) - Complete development roadmap
-- [Game Design Document](GameDesign/GAME_DESIGN_DOCUMENT.md) - Core game specifications
+- [Game Design Document](https://github.com/manwic/manwick-docs/blob/main/GAME_DESIGN_DOCUMENT.md) - Core game specifications
 - [Technical Specifications](GameDesign/TECHNICAL_SPECIFICATIONS.md) - System requirements and tech details
 
 ### Development Guides  

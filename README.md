@@ -4,6 +4,9 @@ Comprehensive documentation for Manwick tactical shooter development.
 
 ## Overview
 
+<img width="5327" height="7786" alt="mindmap-manvik" src="https://github.com/user-attachments/assets/a43ad8c4-d152-4aca-89a6-640d1939b5de" />
+
+
 This repository contains all documentation for the Manwick project, including game design documents, technical specifications, development guides, and community resources.
 
 ## Documentation Structure

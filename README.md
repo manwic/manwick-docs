@@ -1,3 +1,88 @@
+# Project Description
+The 2D Tactical Team Shooter is a fast-paced multiplayer game that emphasizes team coordination, tactical movement, and strategic combat. Unlike traditional shooters that prioritize raw reflexes, this game focuses on cooperative gameplay, where players take on different roles and use weapons, gadgets, and abilities to secure victory.
+
+Players compete in teams across objective-based maps (Capture the Flag, Secure Zone, Elimination) with a top-down 2D perspective. The project is built using a modern 2D game engine and supports real-time multiplayer networking, customizable loadouts, and tactical gadgets.
+
+# installation instructions
+Prerequisites:
+-Unity (if Unity build) → Version 2021.3+
+-Git installed on your machine.
+-For multiplayer: Internet connection + firewall permissions for ports.
+
+Steps 1:
+Clone the repository:
+
+git clone https://github.com/your-username/2d-tactical-shooter.git
+cd 2d-tactical-shooter
+
+Steps 2:
+Open the project in the game engine:
+
+If Unity: Open 2D-Tactical-Shooter folder in Unity Hub.
+
+If Godot: Open project.godot file in Godot.
+
+Steps 3:
+Install dependencies (for Unity projects):
+
+Go to Window → Package Manager
+
+Ensure Photon Unity Networking / Mirror is installed.
+
+Steps 4:
+Build & run the project:
+
+Unity → File → Build and Run
+
+# Usage
+Running the Game:
+
+Start Server/Host:
+
+./tactical-shooter.exe --host
+
+
+(Starts a server instance where other players can connect.)
+
+Join a Match:
+
+./tactical-shooter.exe --connect 127.0.0.1
+
+
+(Joins a match hosted at 127.0.0.1 – replace with actual IP.)
+
+Gameplay Controls:
+
+WASD → Move character
+
+Mouse → Aim & shoot
+
+R → Reload weapon
+
+Q/E → Use gadget/ability
+
+Tab → View scoreboard
+
+ESC → Pause menu
+
+Example Match Flow:
+
+Player hosts a game (server).
+
+Friends join by entering the host’s IP.
+
+Teams are auto-assigned (Red vs Blue).
+
+Players select loadouts (rifle, sniper, medic tools).
+
+Match begins:
+
+Red Team defends the base.
+
+Blue Team attacks to capture the flag.
+
+The winning team is the first to secure 3 rounds.
+
 # Manwick Documentation Hub
 
 Comprehensive documentation for Manwick tactical shooter development.

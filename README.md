@@ -4,9 +4,6 @@ The 2D Tactical Team Shooter is a fast-paced multiplayer game that emphasizes te
 Players compete in teams across objective-based maps (Capture the Flag, Secure Zone, Elimination) with a top-down 2D perspective. The project is built using a modern 2D game engine and supports real-time multiplayer networking, customizable loadouts, and tactical gadgets.
 
 
-
-# Usage
-
 # Manwick Documentation Hub
 
 Comprehensive documentation for Manwick tactical shooter development.

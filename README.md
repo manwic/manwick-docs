@@ -3,36 +3,7 @@ The 2D Tactical Team Shooter is a fast-paced multiplayer game that emphasizes te
 
 Players compete in teams across objective-based maps (Capture the Flag, Secure Zone, Elimination) with a top-down 2D perspective. The project is built using a modern 2D game engine and supports real-time multiplayer networking, customizable loadouts, and tactical gadgets.
 
-# installation instructions
-Prerequisites:
--Unity (if Unity build) → Version 2021.3+
--Git installed on your machine.
--For multiplayer: Internet connection + firewall permissions for ports.
 
-Steps 1:
-Clone the repository:
-
-git clone https://github.com/your-username/2d-tactical-shooter.git
-cd 2d-tactical-shooter
-
-Steps 2:
-Open the project in the game engine:
-
-If Unity: Open 2D-Tactical-Shooter folder in Unity Hub.
-
-If Godot: Open project.godot file in Godot.
-
-Steps 3:
-Install dependencies (for Unity projects):
-
-Go to Window → Package Manager
-
-Ensure Photon Unity Networking / Mirror is installed.
-
-Steps 4:
-Build & run the project:
-
-Unity → File → Build and Run
 
 # Usage
 

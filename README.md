@@ -35,53 +35,6 @@ Build & run the project:
 Unity → File → Build and Run
 
 # Usage
-Running the Game:
-
-Start Server/Host:
-
-./tactical-shooter.exe --host
-
-
-(Starts a server instance where other players can connect.)
-
-Join a Match:
-
-./tactical-shooter.exe --connect 127.0.0.1
-
-
-(Joins a match hosted at 127.0.0.1 – replace with actual IP.)
-
-Gameplay Controls:
-
-WASD → Move character
-
-Mouse → Aim & shoot
-
-R → Reload weapon
-
-Q/E → Use gadget/ability
-
-Tab → View scoreboard
-
-ESC → Pause menu
-
-Example Match Flow:
-
-Player hosts a game (server).
-
-Friends join by entering the host’s IP.
-
-Teams are auto-assigned (Red vs Blue).
-
-Players select loadouts (rifle, sniper, medic tools).
-
-Match begins:
-
-Red Team defends the base.
-
-Blue Team attacks to capture the flag.
-
-The winning team is the first to secure 3 rounds.
 
 # Manwick Documentation Hub
 
@@ -104,7 +57,88 @@ This repository contains all documentation for the Manwick project, including ga
 ### Development Guides  
 - [Getting Started](Development/GETTING_STARTED.md) - Setup and development workflow
 - [Code Reference](Development/CODE_REFERENCE.md) - File structure and code purposes
-- [Build Instructions](Development/BUILD_INSTRUCTIONS.md) - How to build the game
+- [Build Instructions](Development/BUILD_INSTRUCTIONS.md) - How to build the Sure! Here's a refined list of the **best usage example points** for a 2D tactical shooter game (like the one you described), focusing on **clarity**, **structure**, and **real-world relevance** for players and testers:
+
+---
+
+### ✅ **Best Points for Usage Example – 2D Shooter Game**
+
+---
+
+#### 🔹 **1. Starting the Game**
+
+* **Host a Game (Server Mode):**
+
+  ```bash
+  ./tactical-shooter.exe --host
+  ```
+
+  > Starts a local server allowing other players to connect to your machine.
+
+* **Join a Game (Client Mode):**
+
+  ```bash
+  ./tactical-shooter.exe --connect 192.168.1.100
+  ```
+
+  > Connects to a host machine (replace with actual IP of host).
+
+---
+
+#### 🔹 **2. Match Setup Flow**
+
+1. **Player A** hosts the match.
+2. **Players B, C, etc.** join using the host’s IP.
+3. Game auto-assigns players to **Red** or **Blue** team.
+4. Each player selects a **loadout**:
+
+   * Rifleman (assault-focused)
+   * Sniper (long-range)
+   * Medic (support & healing)
+
+---
+
+#### 🔹 **3. Gameplay Objectives**
+
+* Red Team: **Defend** the base.
+* Blue Team: **Attack** to capture the flag.
+* First team to win **3 rounds** wins the match.
+
+---
+
+#### 🔹 **4. Core Controls**
+
+| Action      | Key/Button |
+| ----------- | ---------- |
+| Move        | `W A S D`  |
+| Aim & Shoot | `Mouse`    |
+| Reload      | `R`        |
+| Use Gadget  | `Q / E`    |
+| Scoreboard  | `Tab`      |
+| Pause/Menu  | `Esc`      |
+
+---
+
+#### 🔹 **5. Quick Gameplay Tips**
+
+* **Use cover** to avoid incoming fire.
+* **Coordinate** with your team using roles (e.g. sniper covers, medic supports).
+* **Flank** the enemy to break defensive lines.
+* **Watch reload timing** – don’t reload in open ground.
+
+---
+
+#### 🔹 **6. Example Scenario**
+
+> **You** host the match.
+> **Your friends** join your IP.
+> You play as a **Medic on Red Team**, defending base with gadgets.
+> A teammate (Sniper) covers the flag.
+> You win 3 rounds by defending successfully – **Victory!**
+
+---
+
+
 - [Contributing Guidelines](Development/CONTRIBUTING.md) - How to contribute to development
 
 ### Phase Documentation

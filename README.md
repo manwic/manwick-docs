@@ -66,10 +66,6 @@ Players compete in teams across objective-based maps (Capture the Flag, Secure Z
 - **[Game Server](https://github.com/manwic/manwick-server)** - Multiplayer infrastructure
 
 
-## License
-
-This documentation is licensed under [MIT License](LICENSE).
-
 ---
 
 **Manwick Team** | [Website](https://manwick.game) | [Community Discord](https://discord.gg/RP6efE4u)

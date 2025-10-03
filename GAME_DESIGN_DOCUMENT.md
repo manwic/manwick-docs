@@ -1,4 +1,6 @@
 # Game Design Document (GDD)
+
+
 ## Manvik - 2D Social Deduction Game
 
 ---

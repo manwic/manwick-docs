@@ -5,31 +5,6 @@ Players compete in teams across objective-based maps (Capture the Flag, Secure Z
 
 
 # Manwick Documentation Hub
-## Repository Structure
-
-- [manvik-doc](https://github.com/your-username/manvik-doc)  
-  📖 Documentation Hub  
-
-- [Game_assets](https://github.com/your-username/Game_assets)  
-  🎨 Only for game design like kireta  
-
-- [manwick-tools](https://github.com/your-username/manwick-tools)  
-  🛠 Repository for tools created for game development, including map editors, asset processors, build automation, and testing utilities.  
-
-- [manvik-community](https://github.com/your-username/manvik-community)  
-  🌍 Community resources, user-generated content  
-
-- [manvik](https://github.com/your-username/manvik)  
-  🎮 Main game code repo
-
-Comprehensive documentation for Manwick tactical shooter development.
-
-## Overview
-
-<img width="5327" height="7786" alt="mindmap-manvik" src="https://github.com/user-attachments/assets/a43ad8c4-d152-4aca-89a6-640d1939b5de" />
-
-
-This repository contains all documentation for the Manwick project, including game design documents, technical specifications, development guides, and community resources.
 
 ## Documentation Structure
 
